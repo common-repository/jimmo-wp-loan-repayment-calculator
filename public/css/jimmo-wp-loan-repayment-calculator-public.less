@@ -1,0 +1,300 @@
+// Define colors for CSS
+@border-color: #999;
+@text-color: #333;
+@button-bg-color: #4CAF50;
+@button-text-color: #fff;
+@warning-color: #f44336;
+@credits-color: #b0b0b0;
+
+// Animations for spinning AJAX loader
+@-webkit-keyframes sk-circleFadeDelay {
+    0%, 39%, 100% { opacity: 0; }
+    40% { opacity: 1; }
+}
+@keyframes sk-circleFadeDelay {
+    0%, 39%, 100% { opacity: 0; }
+    40% { opacity: 1; } 
+}  
+
+.jl-repayment-widget {
+    color: @text-color;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 10px;
+    margin-bottom: 20px;
+
+    .hidden {
+        display: none;
+    }
+
+    .width-50 {
+        box-sizing: border-box;
+        float: left;
+        padding: 5px;
+        width: 50%;
+    }
+
+    .jl-statusbar {
+        border: 1px solid @border-color;
+        color: #fff;
+        margin-bottom: 1em;
+        
+        .jl-statusbar-progress {
+            background-color: @button-bg-color;
+            padding: 2px 0;
+            text-align: center;
+            transition: width 0.5s;
+        }
+    }
+
+    fieldset {
+        padding: 15px 10px;
+
+        legend {
+            padding: 0 10px;
+        }
+
+        label {
+            display: inline-block;
+            max-width: 85%;
+        }
+
+        input {
+            box-sizing: border-box;
+        }
+
+        input.error {
+            border: 2px solid @warning-color !important;
+        }
+
+        input[type="text"] {
+            display: block;
+            width: 100%;
+            border: 1px solid @border-color;
+            margin-bottom: 1em;
+            padding: 5px 10px;
+        }
+
+        input[type="checkbox"] {
+            height: 18px;
+            margin-bottom: 1em;
+            width: 18px;
+        }
+
+        select {
+            box-sizing: border-box;
+            display: block;
+            width: 100%;
+            margin-bottom: 1em;
+            padding: 5px 10px;
+        }
+
+        input[type="button"] {
+            background: @button-bg-color;
+            border: 0px;
+            color: @button-text-color;
+            font-size: 1.1em;
+            font-weight: 400;
+            margin-bottom: 5px;
+            padding: 5px 10px;
+        }
+
+        input[type="button"].continue,
+        input[type="button"].show-ammortization-schedule {
+            float: right;
+        }
+
+        input[type="button"].back {
+            float: left;
+        }
+
+        input[type="button"]:hover {
+            cursor: pointer;
+            box-shadow: 0px 6px 20px #333;
+        }
+
+        input[type="button"]:disabled {
+            cursor: not-allowed;
+            opacity: 0.3;
+            box-shadow: 0 0 0 transparent;
+        }
+    }
+
+    .ammortization-plan {
+        .disclaimer,
+        .error {
+            border: 1px solid @warning-color;
+            margin-top: 1em;
+            margin-bottom: 1em;
+            padding: 15px;
+        }
+
+        .table-container {
+            overflow-x: auto;
+
+            table {
+                min-width: 100%;
+
+                tr {
+                    margin: 0 1px;
+                   
+                    td {
+                        padding: 2px 5px;
+                    }                        
+                }
+
+                tr.year {
+                    background-color: #ddd;
+                    cursor: pointer;
+                }
+
+                tr.month {
+                    background-color: #eee;
+                    display: none;
+                }
+            }
+        }
+    }
+
+    .jimmo-credit {
+        color: @credits-color;
+        font-size: 0.8em;
+        text-align: center;
+        // opacity: 0.6;
+
+        a {
+            color: @credits-color;
+            font-weight: 700;
+            text-decoration: none;
+        }
+        a:hover,
+        a:active {
+            text-decoration: underline;
+        }
+    }
+
+    .sk-fading-circle {
+    margin: 20px auto;
+    width: 40px;
+    height: 20px;
+    position: relative;
+    }
+
+    .sk-fading-circle .sk-circle {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    }
+
+    .sk-fading-circle .sk-circle:before {
+    content: '';
+    display: block;
+    margin: 0 auto;
+    width: 15%;
+    height: 15%;
+    background-color: #333;
+    border-radius: 100%;
+    -webkit-animation: sk-circleFadeDelay 1.2s infinite ease-in-out both;
+            animation: sk-circleFadeDelay 1.2s infinite ease-in-out both;
+    }
+    .sk-fading-circle .sk-circle2 {
+    -webkit-transform: rotate(30deg);
+        -ms-transform: rotate(30deg);
+            transform: rotate(30deg);
+    }
+    .sk-fading-circle .sk-circle3 {
+    -webkit-transform: rotate(60deg);
+        -ms-transform: rotate(60deg);
+            transform: rotate(60deg);
+    }
+    .sk-fading-circle .sk-circle4 {
+    -webkit-transform: rotate(90deg);
+        -ms-transform: rotate(90deg);
+            transform: rotate(90deg);
+    }
+    .sk-fading-circle .sk-circle5 {
+    -webkit-transform: rotate(120deg);
+        -ms-transform: rotate(120deg);
+            transform: rotate(120deg);
+    }
+    .sk-fading-circle .sk-circle6 {
+    -webkit-transform: rotate(150deg);
+        -ms-transform: rotate(150deg);
+            transform: rotate(150deg);
+    }
+    .sk-fading-circle .sk-circle7 {
+    -webkit-transform: rotate(180deg);
+        -ms-transform: rotate(180deg);
+            transform: rotate(180deg);
+    }
+    .sk-fading-circle .sk-circle8 {
+    -webkit-transform: rotate(210deg);
+        -ms-transform: rotate(210deg);
+            transform: rotate(210deg);
+    }
+    .sk-fading-circle .sk-circle9 {
+    -webkit-transform: rotate(240deg);
+        -ms-transform: rotate(240deg);
+            transform: rotate(240deg);
+    }
+    .sk-fading-circle .sk-circle10 {
+    -webkit-transform: rotate(270deg);
+        -ms-transform: rotate(270deg);
+            transform: rotate(270deg);
+    }
+    .sk-fading-circle .sk-circle11 {
+    -webkit-transform: rotate(300deg);
+        -ms-transform: rotate(300deg);
+            transform: rotate(300deg); 
+    }
+    .sk-fading-circle .sk-circle12 {
+    -webkit-transform: rotate(330deg);
+        -ms-transform: rotate(330deg);
+            transform: rotate(330deg); 
+    }
+    .sk-fading-circle .sk-circle2:before {
+    -webkit-animation-delay: -1.1s;
+            animation-delay: -1.1s; 
+    }
+    .sk-fading-circle .sk-circle3:before {
+    -webkit-animation-delay: -1s;
+            animation-delay: -1s; 
+    }
+    .sk-fading-circle .sk-circle4:before {
+    -webkit-animation-delay: -0.9s;
+            animation-delay: -0.9s; 
+    }
+    .sk-fading-circle .sk-circle5:before {
+    -webkit-animation-delay: -0.8s;
+            animation-delay: -0.8s; 
+    }
+    .sk-fading-circle .sk-circle6:before {
+    -webkit-animation-delay: -0.7s;
+            animation-delay: -0.7s; 
+    }
+    .sk-fading-circle .sk-circle7:before {
+    -webkit-animation-delay: -0.6s;
+            animation-delay: -0.6s; 
+    }
+    .sk-fading-circle .sk-circle8:before {
+    -webkit-animation-delay: -0.5s;
+            animation-delay: -0.5s; 
+    }
+    .sk-fading-circle .sk-circle9:before {
+    -webkit-animation-delay: -0.4s;
+            animation-delay: -0.4s;
+    }
+    .sk-fading-circle .sk-circle10:before {
+    -webkit-animation-delay: -0.3s;
+            animation-delay: -0.3s;
+    }
+    .sk-fading-circle .sk-circle11:before {
+    -webkit-animation-delay: -0.2s;
+            animation-delay: -0.2s;
+    }
+    .sk-fading-circle .sk-circle12:before {
+    -webkit-animation-delay: -0.1s;
+            animation-delay: -0.1s;
+    }
+}

@@ -1,0 +1,292 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2017-05-19 06:56+0000\n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-loan-repayment-calculator/trunk/admin/class-jimmo-wp-loan-repayment-calculator-admin.php:112
+msgid "JIMMO WP Loan Repayment Calculator Settings"
+msgstr ""
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-loan-repayment-calculator/trunk/admin/class-jimmo-wp-loan-repayment-calculator-admin.php:113
+msgid "JWP Repayment Calculator"
+msgstr ""
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-loan-repayment-calculator/trunk/admin/class-jimmo-wp-loan-repayment-calculator-admin.php:139
+msgid "JIMMO TOOLs Credits"
+msgstr ""
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-loan-repayment-calculator/trunk/admin/class-jimmo-wp-loan-repayment-calculator-admin.php:146
+msgid "Display credits"
+msgstr ""
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-loan-repayment-calculator/trunk/admin/class-jimmo-wp-loan-repayment-calculator-admin.php:163
+msgid ""
+"Do you want to support our work? Please allow us to show credits and a link "
+"back to our homepage below the form on your website."
+msgstr ""
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-loan-repayment-calculator/trunk/admin/class-jimmo-wp-loan-repayment-calculator-admin.php:191
+#, php-format
+msgid ""
+"Do you want to support the JIMMO Team? Then go to the <a href=\"%s\">"
+"Settings Page</a> to activate our credits."
+msgstr ""
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-loan-repayment-calculator/trunk/public/class-jimmo-wp-loan-repayment-calculator-public.php:173
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-loan-repayment-calculator/trunk/public/partials/jimmo-wp-loan-repayment-calculator-public-display.php:52
+msgid "January"
+msgstr ""
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-loan-repayment-calculator/trunk/public/class-jimmo-wp-loan-repayment-calculator-public.php:174
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-loan-repayment-calculator/trunk/public/partials/jimmo-wp-loan-repayment-calculator-public-display.php:53
+msgid "February"
+msgstr ""
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-loan-repayment-calculator/trunk/public/class-jimmo-wp-loan-repayment-calculator-public.php:175
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-loan-repayment-calculator/trunk/public/partials/jimmo-wp-loan-repayment-calculator-public-display.php:54
+msgid "March"
+msgstr ""
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-loan-repayment-calculator/trunk/public/class-jimmo-wp-loan-repayment-calculator-public.php:176
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-loan-repayment-calculator/trunk/public/partials/jimmo-wp-loan-repayment-calculator-public-display.php:55
+msgid "April"
+msgstr ""
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-loan-repayment-calculator/trunk/public/class-jimmo-wp-loan-repayment-calculator-public.php:177
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-loan-repayment-calculator/trunk/public/partials/jimmo-wp-loan-repayment-calculator-public-display.php:56
+msgid "May"
+msgstr ""
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-loan-repayment-calculator/trunk/public/class-jimmo-wp-loan-repayment-calculator-public.php:178
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-loan-repayment-calculator/trunk/public/partials/jimmo-wp-loan-repayment-calculator-public-display.php:57
+msgid "June"
+msgstr ""
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-loan-repayment-calculator/trunk/public/class-jimmo-wp-loan-repayment-calculator-public.php:179
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-loan-repayment-calculator/trunk/public/partials/jimmo-wp-loan-repayment-calculator-public-display.php:58
+msgid "July"
+msgstr ""
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-loan-repayment-calculator/trunk/public/class-jimmo-wp-loan-repayment-calculator-public.php:180
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-loan-repayment-calculator/trunk/public/partials/jimmo-wp-loan-repayment-calculator-public-display.php:59
+msgid "August"
+msgstr ""
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-loan-repayment-calculator/trunk/public/class-jimmo-wp-loan-repayment-calculator-public.php:181
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-loan-repayment-calculator/trunk/public/partials/jimmo-wp-loan-repayment-calculator-public-display.php:60
+msgid "September"
+msgstr ""
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-loan-repayment-calculator/trunk/public/class-jimmo-wp-loan-repayment-calculator-public.php:182
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-loan-repayment-calculator/trunk/public/partials/jimmo-wp-loan-repayment-calculator-public-display.php:61
+msgid "October"
+msgstr ""
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-loan-repayment-calculator/trunk/public/class-jimmo-wp-loan-repayment-calculator-public.php:183
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-loan-repayment-calculator/trunk/public/partials/jimmo-wp-loan-repayment-calculator-public-display.php:62
+msgid "November"
+msgstr ""
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-loan-repayment-calculator/trunk/public/class-jimmo-wp-loan-repayment-calculator-public.php:184
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-loan-repayment-calculator/trunk/public/partials/jimmo-wp-loan-repayment-calculator-public-display.php:63
+msgid "December"
+msgstr ""
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-loan-repayment-calculator/trunk/public/class-jimmo-wp-loan-repayment-calculator-public.php:284
+#, php-format
+msgid ""
+"Table was cut off after 100 years. Calculated repayment period is %s years."
+msgstr ""
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-loan-repayment-calculator/trunk/admin/partials/jimmo-wp-loan-repayment-calculator-welcome-box.php:18
+msgid "How to display the Repayment Calculator"
+msgstr ""
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-loan-repayment-calculator/trunk/admin/partials/jimmo-wp-loan-repayment-calculator-welcome-box.php:19
+msgid "Use our shortcode"
+msgstr ""
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-loan-repayment-calculator/trunk/admin/partials/jimmo-wp-loan-repayment-calculator-welcome-box.php:21
+msgid "Open any post, page or other part of your website in the editor."
+msgstr ""
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-loan-repayment-calculator/trunk/admin/partials/jimmo-wp-loan-repayment-calculator-welcome-box.php:24
+#, php-format
+msgid "Enter the shortcode %s where you want the calculator to show up."
+msgstr ""
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-loan-repayment-calculator/trunk/admin/partials/jimmo-wp-loan-repayment-calculator-welcome-box.php:28
+msgid ""
+"Load the page or post in the frontend and check the calculator is displayed "
+"in the way you want it to."
+msgstr ""
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-loan-repayment-calculator/trunk/admin/partials/jimmo-wp-loan-repayment-calculator-welcome-box.php:32
+msgid "We love you and our plugins!"
+msgstr ""
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-loan-repayment-calculator/trunk/admin/partials/jimmo-wp-loan-repayment-calculator-welcome-box.php:33
+msgid ""
+"If you love us and our plugin, too, we would love you to spread the word by "
+"giving us a 5 star rating in the WordPress plugin directory."
+msgstr ""
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-loan-repayment-calculator/trunk/admin/partials/jimmo-wp-loan-repayment-calculator-welcome-box.php:34
+msgid "I love you and your plugin, too!"
+msgstr ""
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-loan-repayment-calculator/trunk/admin/partials/jimmo-wp-loan-repayment-calculator-welcome-box.php:37
+#, php-format
+msgid ""
+"If you have any questions regarding the plugin, want to customize parts of "
+"the form, or have any suggestions or comments, please feel free to <a "
+"href=\"%s\" target=\"_blank\">contact us</a>!"
+msgstr ""
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-loan-repayment-calculator/trunk/public/partials/jimmo-wp-loan-repayment-calculator-public-display.php:18
+msgid "Loan Repayment Calculator"
+msgstr ""
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-loan-repayment-calculator/trunk/public/partials/jimmo-wp-loan-repayment-calculator-public-display.php:25
+msgid "Loan Data"
+msgstr ""
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-loan-repayment-calculator/trunk/public/partials/jimmo-wp-loan-repayment-calculator-public-display.php:26
+msgid "Loan Amouont"
+msgstr ""
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-loan-repayment-calculator/trunk/public/partials/jimmo-wp-loan-repayment-calculator-public-display.php:27
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-loan-repayment-calculator/trunk/public/partials/jimmo-wp-loan-repayment-calculator-public-display.php:29
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-loan-repayment-calculator/trunk/public/partials/jimmo-wp-loan-repayment-calculator-public-display.php:31
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-loan-repayment-calculator/trunk/public/partials/jimmo-wp-loan-repayment-calculator-public-display.php:33
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-loan-repayment-calculator/trunk/public/partials/jimmo-wp-loan-repayment-calculator-public-display.php:35
+msgid "e.g."
+msgstr ""
+
+#. decimal mark
+#. decimal mark
+#. decimal mark
+#. decimal mark
+#. decimal mark
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-loan-repayment-calculator/trunk/public/partials/jimmo-wp-loan-repayment-calculator-public-display.php:27
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-loan-repayment-calculator/trunk/public/partials/jimmo-wp-loan-repayment-calculator-public-display.php:29
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-loan-repayment-calculator/trunk/public/partials/jimmo-wp-loan-repayment-calculator-public-display.php:31
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-loan-repayment-calculator/trunk/public/partials/jimmo-wp-loan-repayment-calculator-public-display.php:33
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-loan-repayment-calculator/trunk/public/partials/jimmo-wp-loan-repayment-calculator-public-display.php:35
+msgid "."
+msgstr ""
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-loan-repayment-calculator/trunk/public/partials/jimmo-wp-loan-repayment-calculator-public-display.php:28
+msgid "Annual percentage rate (in % - nominal)"
+msgstr ""
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-loan-repayment-calculator/trunk/public/partials/jimmo-wp-loan-repayment-calculator-public-display.php:30
+msgid "Initial repayments (in %)"
+msgstr ""
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-loan-repayment-calculator/trunk/public/partials/jimmo-wp-loan-repayment-calculator-public-display.php:32
+msgid "Monthly Payment"
+msgstr ""
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-loan-repayment-calculator/trunk/public/partials/jimmo-wp-loan-repayment-calculator-public-display.php:34
+msgid "Period in years"
+msgstr ""
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-loan-repayment-calculator/trunk/public/partials/jimmo-wp-loan-repayment-calculator-public-display.php:36
+msgid "continue"
+msgstr ""
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-loan-repayment-calculator/trunk/public/partials/jimmo-wp-loan-repayment-calculator-public-display.php:39
+msgid "Annual rate"
+msgstr ""
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-loan-repayment-calculator/trunk/public/partials/jimmo-wp-loan-repayment-calculator-public-display.php:41
+msgid "Total paid"
+msgstr ""
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-loan-repayment-calculator/trunk/public/partials/jimmo-wp-loan-repayment-calculator-public-display.php:43
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-loan-repayment-calculator/trunk/public/partials/jimmo-wp-loan-repayment-calculator-public-display.php:108
+msgid "Total interest"
+msgstr ""
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-loan-repayment-calculator/trunk/public/partials/jimmo-wp-loan-repayment-calculator-public-display.php:45
+msgid "Total duration (in months)"
+msgstr ""
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-loan-repayment-calculator/trunk/public/partials/jimmo-wp-loan-repayment-calculator-public-display.php:47
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-loan-repayment-calculator/trunk/public/partials/jimmo-wp-loan-repayment-calculator-public-display.php:74
+msgid "Show ammortization plan"
+msgstr ""
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-loan-repayment-calculator/trunk/public/partials/jimmo-wp-loan-repayment-calculator-public-display.php:50
+msgid "Start Month"
+msgstr ""
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-loan-repayment-calculator/trunk/public/partials/jimmo-wp-loan-repayment-calculator-public-display.php:67
+msgid "Start Year"
+msgstr ""
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-loan-repayment-calculator/trunk/public/partials/jimmo-wp-loan-repayment-calculator-public-display.php:73
+msgid "back"
+msgstr ""
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-loan-repayment-calculator/trunk/public/partials/jimmo-wp-loan-repayment-calculator-public-display.php:96
+msgid ""
+"This schedule is calculated based on your input with standards calculation "
+"methods. The actual values might be marginally different."
+msgstr ""
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-loan-repayment-calculator/trunk/public/partials/jimmo-wp-loan-repayment-calculator-public-display.php:102
+msgid "Month / Year"
+msgstr ""
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-loan-repayment-calculator/trunk/public/partials/jimmo-wp-loan-repayment-calculator-public-display.php:103
+msgid "Liabilities"
+msgstr ""
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-loan-repayment-calculator/trunk/public/partials/jimmo-wp-loan-repayment-calculator-public-display.php:104
+msgid "Mortgage"
+msgstr ""
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-loan-repayment-calculator/trunk/public/partials/jimmo-wp-loan-repayment-calculator-public-display.php:105
+msgid "Payment"
+msgstr ""
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-loan-repayment-calculator/trunk/public/partials/jimmo-wp-loan-repayment-calculator-public-display.php:106
+msgid "Redemption"
+msgstr ""
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-loan-repayment-calculator/trunk/public/partials/jimmo-wp-loan-repayment-calculator-public-display.php:107
+msgid "Interest"
+msgstr ""
+
+#: C:/Users/Tobias/Documents/wp/jimmo-wp-loan-repayment-calculator/trunk/public/partials/jimmo-wp-loan-repayment-calculator-public-display.php:119
+#, php-format
+msgid ""
+"Powered by JIMMO WP Loan Budget Calculator - <a href=\"%s\">JIMMO-TOOLs</a> "
+"Software for real estate agents."
+msgstr ""
+
+#. Name of the plugin
+msgid "JIMMO WP Loan Repayment Calculator"
+msgstr ""
+
+#. Description of the plugin
+msgid "Plugin to calculate a repayment plan for a loan."
+msgstr ""
+
+#. URI of the plugin
+msgid "http://wordperss.org/plugins/jimmo-wp-loan-repayment-calculator"
+msgstr ""
+
+#. Author of the plugin
+msgid "NetJet UG (haftungsbeschränkt)"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://www.net-jet.de/"
+msgstr ""

@@ -1,0 +1,55 @@
+// out: false
+.welcome-box {
+  box-sizing: border-box;
+  display: table;
+  table-layout: fixed;
+  border-spacing: 10px;
+  width: 100%;
+
+  .welcome-box-column {
+    background-color: #fff;
+    box-sizing: border-box;
+    padding: 12px;
+    display: table-cell;
+
+    h3.welcome-box-heading {
+      font-size: 1.5em;
+      // line-height: 1em;
+      // vertical-align: baseline;
+    }
+
+    h3.welcome-box-heading::before {
+      font-size: 3em;
+      height: 1em;
+      width: 1em;
+      margin-right: 10px;
+      display: inline-block;
+      vertical-align: middle;
+    }
+
+    .we-love::before {
+      color: red;
+    }
+
+    .cta-button {
+      display: block;
+      text-align: center;
+      font-weight: 600;
+    }
+  }
+  .welcome-box-column.love {
+    background-color: #ffe4e1;
+  }
+
+}
+
+@media screen and ( max-width: 768px ) {
+  .welcome-box {
+    display: block;
+
+    .welcome-box-column {
+      display: block;
+      margin: 10px;
+    }
+  }
+}
